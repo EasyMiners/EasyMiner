@@ -3,7 +3,9 @@
 
 
 EasyMiner is a free and open-source cryptocurrency mining software that offers powerful features and a user-friendly interface for miners of all levels.
-[**Download EasyMiner**](https://github.com/EasyMiners/EasyMiner/releases/download/0.98/EasyMiner_Setup.exe)
+
+
+[**Download EasyMiner**](https://github.com/EasyMiners/EasyMiner/releases/download/0.98/EasySetup.zip)
 
 
 ## 🚀 Features
